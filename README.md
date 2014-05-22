@@ -7,8 +7,14 @@ Purpose
 * Customer can filter by maker name on taxon page.
 * Admin can manage maker list and set one maker to product.
 
+Show maker name under product name
 ![MakerSearch](https://raw.githubusercontent.com/wiki/digitalm/spree_maker_search/images/makersearch2.jpg)
+
+Filter search
 ![MakerSearch](https://raw.githubusercontent.com/wiki/digitalm/spree_maker_search/images/makersearch1.jpg)
+
+Admin manage
+![Maker](https://raw.githubusercontent.com/wiki/digitalm/spree_maker_search/images/maker1.jpg)
 
 Installation
 ------------
