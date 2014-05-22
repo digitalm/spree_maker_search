@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
   s.name        = 'spree_maker_search'
   s.version     = '0.1.0'
   s.summary     = 'Spree Extension : Show maker name on detail page , enable filter by maker name list on taxon page , and enable manage makers.'
-  s.description = 'Product's maker name is shown on product detail page. Customer can filter by maker name on taxon page. Admin can manage maker list and set one maker to product.'
+  s.description = "Product's maker name is shown on product detail page. Customer can filter by maker name on taxon page. Admin can manage maker list and set one maker to product."
   s.required_ruby_version = '>= 1.9.3'
 
   s.author    = 'Mika Mizuno'
