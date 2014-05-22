@@ -1,0 +1,14 @@
+<%= form_for [:admin, @add_on_maker] do |f| %>
+  <div data-hook="admin_inside_bank_form" class="row">
+    <div class="alpha five columns">
+      <%= f.field_container :name do %>
+        <%= f.label :name, Spree.t(:name) %> <span class="required">*</span><br />
+        <%= f.error_message_on :name, :class => 'fullwidth title' %>
+        <%= f.text_field :name, :class => 'fullwidth' %>
+      <% end %>
+
+      <%= f.submit %>
+
+    </div>
+  </div>
+<% end %>

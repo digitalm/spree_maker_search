@@ -1,0 +1,13 @@
+ja:
+  add_on:
+    add_on_maker: メーカー
+    listing_add_on_maker: メーカー一覧
+    new_add_on_maker: 新規
+    edit_add_on_maker: 編集
+    destroy: 削除
+    add_one: 新規追加
+    back_to_add_on_makers_list: 登録済メーカー一覧
+  activerecord:
+    attributes:
+      add_on_maker:
+        name: 名前

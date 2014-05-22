@@ -1,0 +1,11 @@
+<% content_for :page_title do %>
+  <%= Spree.t(:edit_maker) %>
+<% end %>
+
+<% content_for :page_actions do %>
+  <li>
+    <%= button_link_to Spree.t(:back_to_makers_list), admin_add_on_makers_path, :icon => 'icon-arrow-left' %>
+  </li>  
+<% end %>
+
+<%= render :partial => 'form' %>
