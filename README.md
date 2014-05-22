@@ -16,6 +16,9 @@ Filter search
 Admin manage
 ![Maker](https://raw.githubusercontent.com/wiki/digitalm/spree_maker_search/images/maker1.jpg)
 
+Admin manage - Product
+![Maker](https://raw.githubusercontent.com/wiki/digitalm/spree_maker_search/images/maker2.jpg)
+
 Installation
 ------------
 
