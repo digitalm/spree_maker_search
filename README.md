@@ -32,6 +32,7 @@ Bundle your dependencies and run the installation generator:
 
 ```shell
 bundle
+bundle exec rails g spree_add_on_menu:install
 bundle exec rails g spree_maker_search:install
 ```
 
