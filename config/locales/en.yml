@@ -5,8 +5,8 @@ en:
   add_on:
     add_on_maker: Maker
     listing_add_on_maker: Listing Makers
-    new_add_on_maker: New Makers
-    edit_add_on_maker: Edit Makers
+    new_add_on_maker: New Maker
+    edit_add_on_maker: Edit Maker
     destroy: Destroy
     add_one: Add One
     back_to_add_on_makers_list: Back To Makers List
