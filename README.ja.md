@@ -25,7 +25,7 @@ SpreeMakerSearch
 Gemfileに追加します:
 
 ```ruby
-gem 'spree_maker_search'
+gem 'spree_maker_search', github: 'digitalm/spree_maker_search'
 ```
 
 Bundleしてインストールします:

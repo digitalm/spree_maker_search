@@ -25,7 +25,7 @@ Installation
 Add spree_maker_search to your Gemfile:
 
 ```ruby
-gem 'spree_maker_search'
+gem 'spree_maker_search', github: 'digitalm/spree_maker_search'
 ```
 
 Bundle your dependencies and run the installation generator:
